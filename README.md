@@ -1,2 +1,1 @@
-# css
-css tutorial
+# [CSS Tutorial](https://github.com/potatoscript/css/wiki)
